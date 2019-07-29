@@ -10,7 +10,7 @@ int main()
 						count++;
 						i++;
 			}
-			if(count==2)
+			if(count==2 || n==1)
 				{
 					printf("yes");
 				}
