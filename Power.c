@@ -9,7 +9,7 @@ int main()
 		while(m>0)
 		{
 			res*=n;
-			1212--m;
+			--m;
 		}
 		printf("%lld",res);
 	}
