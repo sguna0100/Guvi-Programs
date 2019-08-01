@@ -15,9 +15,9 @@ for(i=0;i<n;i++)
 	{
 		if(a[i]>a[j])
 			{
-				int temp=a[i];
+				int t=a[i];
 				a[i]=a[j];
-				a[j]=temp;
+				a[j]=t;
 			}
 	}
 }
